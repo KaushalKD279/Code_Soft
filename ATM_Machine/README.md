@@ -24,6 +24,6 @@ This project demonstrates **event-driven programming, GUI handling, and OOP prin
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/KaushalKD279/Code_alpha.git
-cd Cod_Soft/ATM_Machine
-Compile and then run
+git clone https://github.com/KaushalKD279/Code_Soft.git
+cd Code_Soft/ATM_Machine
+Javac ATMInterfaceWithMusic.java
