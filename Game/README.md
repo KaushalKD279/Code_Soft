@@ -24,7 +24,7 @@ The game provides **difficulty levels, scoring system, and background music** fo
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/KaushalKD279/Code_alpha.git
-cd Code_alpha/Game
+git clone https://github.com/KaushalKD279/Code_Soft.git
+cd Code_Soft/Game
 javac NumberGuessingSwingWithSound.java
 java NumberGuessingSwingWithSound
