@@ -4,13 +4,13 @@ This repository contains three Java desktop applications developed during my int
 The projects showcase **Swing, AWT, Java Sound API, OOP principles, file handling, and event-driven programming**.
 
 ## 📂 Projects
-1. **[Number Guessing Game](./NumberGuessingGame)**  
+1. **[Number Guessing Game](./Game)**  
    A fun Java-based number guessing game with difficulty levels, scoring, and background music.  
 
-2. **[ATM Interface](./ATMInterface)**  
+2. **[ATM Interface](./ATM_Machine)**  
    A simulation of an ATM machine with deposit, withdrawal, and balance inquiry features.  
 
-3. **[Student Management System](./StudentManagementSystem)**  
+3. **[Student Management System](./Student_Management_System)**  
    A desktop-based system with CRUD operations, JTable integration, and file serialization.  
 
 ## 🛠️ Tech Stack
