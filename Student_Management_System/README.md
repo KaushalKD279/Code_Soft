@@ -18,4 +18,4 @@ It provides **CRUD operations, data persistence with file serialization, and an 
 ## ▶️ Run Instructions
 1. Navigate to the project directory:
    ```bash
-   cd C_Tasks/StudentManagementSystem
+   cd C_Tasks/Student_Management_System
