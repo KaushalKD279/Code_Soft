@@ -22,3 +22,4 @@ It provides **CRUD operations, data persistence with file serialization, and an 
 git clone https://github.com/KaushalKD279/Code_Soft.git
 cd Code_Soft/Student_Management_System
 javac StudentManagementGUI.java
+java StudentManagementGUI.java
