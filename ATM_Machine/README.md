@@ -27,3 +27,4 @@ This project demonstrates **event-driven programming, GUI handling, and OOP prin
 git clone https://github.com/KaushalKD279/Code_Soft.git
 cd Code_Soft/ATM_Machine
 Javac ATMInterfaceWithMusic.java
+java ATMInterfaceWithMusic.java
