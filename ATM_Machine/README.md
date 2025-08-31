@@ -1,20 +1,29 @@
+# 💳 ATM Interface
+
+A **Java Swing application** that simulates basic ATM operations such as deposit, withdrawal, and balance inquiry.  
+This project demonstrates **event-driven programming, GUI handling, and OOP principles** in Java.
 
 ---
 
-### 📌 Project 2: `ATMInterface/README.md`
-
-```markdown
-# 💳 ATM Interface
-
-A **Java Swing application** that simulates basic ATM operations.  
-
 ## 🚀 Features
-- Deposit money.  
-- Withdraw money.  
-- Check account balance.  
-- Simple, interactive GUI with buttons and dialogs.  
+- 💰 Deposit money into the account.  
+- 🏧 Withdraw money (with validation for insufficient balance).  
+- 📊 Check account balance anytime.  
+- 🖥️ Simple, interactive GUI with buttons, labels, and dialogs.  
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Java  
+- **GUI Library:** Swing  
+- **Concepts Used:** Event Handling, OOP Principles, Exception Handling  
+
+---
 
 ## ▶️ Run Instructions
-1. Navigate to the project directory:
-   ```bash
-   cd C_Tasks/ATMInterfaceWithMusic
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/KaushalKD279/Code_alpha.git
+cd Cod_Soft/ATM_Machine
+Compile and then run
