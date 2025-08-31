@@ -17,4 +17,4 @@ A **Java Swing application** that simulates basic ATM operations.
 ## ▶️ Run Instructions
 1. Navigate to the project directory:
    ```bash
-   cd C_Tasks/ATMInterface
+   cd C_Tasks/ATMInterfaceWithMusic
